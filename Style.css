@@ -1,0 +1,36 @@
+body{
+    margin: 0;
+}
+
+.diferente{
+    font-size: 30px;
+    font-family: 'Supermercado One', cursive;
+    color: red;
+    text-align: center;
+    padding-bottom: 15px;
+    background-color: grey;
+}
+
+h1{
+    font-size: 50px;
+    padding-left: 20px;
+    text-decoration: overline;   
+    color: #4267b2;
+}
+
+#lista{
+    font-size: 20px;
+    font-weight: bold;
+    color: purple;
+}
+
+img{
+    width: 500px;
+    height: 100% ;
+}
+
+.button1{
+    background-color: green;
+    margin-bottom: 20em;
+    margin-left: 5em;
+}
